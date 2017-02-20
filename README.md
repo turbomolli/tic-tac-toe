@@ -1,2 +1,2 @@
 # tic-tac-toe
-Tic Tac Toe application for university course.
+Tic Tac Toe android app for university course.
